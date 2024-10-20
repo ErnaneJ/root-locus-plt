@@ -1,6 +1,6 @@
 # Root Locus Plt 📈
 
-**Root Locus Plt** is a Python tool for plotting the Root Locus (LGR) of control systems given their open-loop transfer functions $G(s)$ and $H(s)$. This project helps visualize the system's pole movements as feedback gain $K$ varies, providing insights into system stability and dynamics.
+Python tool for plotting the Root Locus (LGR) of control systems given their open-loop transfer functions $G(s)$ and $H(s)$.
 
 ## 🚀 Usage Example
 
