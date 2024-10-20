@@ -1,3 +1,6 @@
+import warnings
+warnings.filterwarnings("ignore") # silence is golden
+
 import matplotlib.pyplot as plt
 import control as ctl
 import numpy as np
